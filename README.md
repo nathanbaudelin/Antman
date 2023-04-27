@@ -17,7 +17,7 @@ To use it, follow the instructions below:<br/>
 
 - Run the program by entering these commands:
 
-    - In order to compress a file, you need to run the the program with this command:
+    - In order to compress a file, you need to run the program with this command:
 
             ./antman/antman file.txt [1-3]
 
